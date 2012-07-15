@@ -1,6 +1,6 @@
-# Middleman 3.0 Project Template: HAML HTML5 Boilerplate, SUSY, Normalize, Sprockets
+# Middleman 3.0 Project Template: HTML5 Boilerplate HAML, Normalize, SUSY, Sprockets Includes
 
-HAML HTML5 Boilerplate is a project template for [Middleman 3.0](http://www.middlemanapp.com), a Sinatra-based static site generator by [Thomas Reynolds](http://awardwinningfjords.com/). It contains the a HAML-formatted version of the [HTML5 Boilerplate](http://www.html5boilerplate.com), as well as related assets broken up into a Middleman/Rails directory structure and included with Sprockets.
+HTML5 Boilerplate HAML is a project template for [Middleman 3.0](http://www.middlemanapp.com), a Sinatra-based static site generator by [Thomas Reynolds](http://awardwinningfjords.com/). It contains the a HAML-formatted version of the [HTML5 Boilerplate](http://www.html5boilerplate.com), as well as related assets broken up into a Middleman/Rails directory structure and included with Sprockets.
 
 Other Features:
 
