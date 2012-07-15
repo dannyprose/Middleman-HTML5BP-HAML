@@ -10,7 +10,7 @@ Hopefully this will save people some time.
 
 ## Usage
 
-Clone or download this repo and include it in ~/.middleman/. Or simply copy and paste into a new directory.
+Clone or download this repo and include it in ~/.middleman/. Or simply copy and paste into the new directory for your site and run Middleman from there (depending on how you do this, you'll lose .rvmrc and .gitignore).
 
 If you have put this in your ~/.middleman/ directory, you create new Middleman projects with this template with the following:
 
@@ -22,7 +22,7 @@ $ middleman init my_new_mobile_project --template=template_directory
 
 Recommendations:
 
-* Update the `.rvmrc` file to whatever gemset you want to use
+* Update the `.rvmrc` file to whatever created gemset you want to use
 * Double check `.gitignore`
-* `$ gem install bundler`
-* `$ bundle`
+* Run `$ gem install bundler`
+* Run `$ bundle`
