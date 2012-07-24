@@ -9,16 +9,22 @@ Other Features:
 * [Middleman Livereload](https://github.com/middleman/middleman-livereload)
 * [Middleman Favicon Maker](https://github.com/follmann/middleman-favicon-maker): creates favicons and touch icons on build from `favicon_base.png`
 * [Susy 1.0.rc.1](http://susy.oddbird.net): mobile-first grid setup and ready to go at `stylesheets/partials/grid.css.scss`
+* RVM-ready
+* Some good `.gitignore` defaults
 
-Hopefully this will save people some time.
+Hopefully this will save people some time. Add any suggestions to the [issue tracker](https://github.com/dannyprose/Middleman-HTML5-Boilerplate-HAML-Project-Template/issues).
 
 ## Usage
 
 Clone or download this repo and follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
 
-##Recommendations
+## Recommendations
 
-* Update the `.rvmrc` file to whatever created gemset you want to use
-* Double check `.gitignore`
-* Run `$ gem install bundler`
-* Run `$ bundle`
+* Update `.rvmrc` to the [gemset](https://rvm.io/gemsets/basics/) of your choosing (or remove it if you do not use [RVM](https://rvm.io/))
+* Double check `.gitignore` and make sure it is what you want.
+  * eg: `build/` is ignored by default.
+* If you don't use `middleman init` to load the template, make sure to [use and run Bundler](http://gembundler.com/).
+
+## Older Middleman Versions
+
+This will likely work with Middleman 2.x, but it's optimized for Middleman 3.x. You might have a few manual tasks to perform (e.g. bundling after `middleman init`, changing `Gemfile` version numbers, etc.). 
