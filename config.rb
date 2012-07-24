@@ -1,3 +1,6 @@
+#Livereload
+activate :livereload
+
 ### 
 # Compass
 ###

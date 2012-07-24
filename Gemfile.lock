@@ -1,9 +1,20 @@
+GIT
+  remote: git://github.com/middleman/middleman-livereload.git
+  revision: 834d4695b89aaf623f023fa7c36e52c374acb1da
+  specs:
+    middleman-livereload (3.0.0)
+      em-websocket (>= 0.2.0)
+      middleman-core (~> 3.0.0)
+      multi_json (~> 1.0)
+      rack-livereload
+
 GEM
   remote: http://rubygems.org/
   specs:
     activesupport (3.2.6)
       i18n (~> 0.6)
       multi_json (~> 1.0)
+    addressable (2.3.1)
     chunky_png (1.2.5)
     coffee-script (2.2.0)
       coffee-script-source
@@ -13,6 +24,10 @@ GEM
       chunky_png (~> 1.2)
       fssm (>= 0.2.7)
       sass (~> 3.1)
+    em-websocket (0.3.8)
+      addressable (>= 2.1.1)
+      eventmachine (>= 0.12.9)
+    eventmachine (0.12.10)
     execjs (1.4.0)
       multi_json (~> 1.0)
     favicon_maker (0.0.7)
@@ -74,6 +89,8 @@ GEM
       i18n (~> 0.6)
       padrino-core (= 0.10.7)
     rack (1.4.1)
+    rack-livereload (0.3.6)
+      rack
     rack-protection (1.2.0)
       rack
     rack-test (0.6.1)
@@ -115,4 +132,5 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 3.0.0)
   middleman-favicon-maker
+  middleman-livereload (~> 3.0.0)!
   susy (= 1.0.rc.2)
