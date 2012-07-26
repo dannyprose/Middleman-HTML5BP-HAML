@@ -16,7 +16,9 @@ Hopefully this will save people some time. Add any suggestions to the [issue tra
 
 ## Usage
 
-Clone or download this repo and follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
+Download and install into ~/.middleman (you'll have to create this directory if it's not already there). You can then use it with the `--template` flag on `middleman init`. 
+
+For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
 
 ## Recommendations
 
