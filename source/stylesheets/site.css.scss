@@ -1,6 +1,7 @@
 /**
 
-//HTML5 Boilerplate + Normalize Built In
+//HTML5 Boilerplate + Normalize
+*= require "vendor/normalize.css"
 *= require "vendor/html5bp.css"
 
 //Grid
