@@ -1,9 +1,5 @@
 # Changelog
 
-## 3.0.6 (September 2, 2012)
-
-* Content is parsed with Markdown (using Redcarpet) by default
-
 ## 3.0.5 (September 2, 2012)
 
 * Smart site and page titles/descriptions through /helpers/site_helpers.rb
