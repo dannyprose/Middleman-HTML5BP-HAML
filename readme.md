@@ -8,6 +8,7 @@ Features:
 
 * Uses the [HTML5 Boilerplate 4.0](http://www.html5boilerplate.com), converted to a Middleman/HAML workflow.
 * [Susy 1.0](http://susy.oddbird.net/) responsive grids ready to go.
+* [SMACSS](http://smacss.com/) stylesheet organization
 * [Middleman Livereload](https://github.com/middleman/middleman-livereload): enabled for the generic 'middleman' command by default
 * [Middleman Favicon Maker](https://github.com/follmann/middleman-favicon-maker): creates favicons and touch icons on build from `favicon_base.png` in /source/
 * RVM-ready
