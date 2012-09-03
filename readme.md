@@ -1,6 +1,6 @@
-# Middleman 3.0 Project Template: HTML5 Boilerplate HAML, Normalize, Susy, Sprockets Includes
+# Middleman 3.0.x Project Template: HTML5 Boilerplate HAML, Normalize, Susy, Sprockets Includes
 
-HTML5 Boilerplate HAML is a project template for [Middleman 3.x](http://www.middlemanapp.com), a Sinatra-based static site generator by [Thomas Reynolds](http://awardwinningfjords.com/). It contains the a HAML-formatted version of the [HTML5 Boilerplate 4.0](http://www.html5boilerplate.com), as well as related assets broken up into a Middleman/Rails directory structure and included with Sprockets.
+HTML5 Boilerplate HAML is a project template for [Middleman 3.0.x](http://www.middlemanapp.com), a Sinatra-based static site generator by [Thomas Reynolds](http://awardwinningfjords.com/). It contains the a HAML-formatted version of the [HTML5 Boilerplate 4.0](http://www.html5boilerplate.com), as well as related assets broken up into a Middleman/Rails directory structure and included with Sprockets.
 
 Using Bundler and RVM is **highly** recommended.
 
@@ -19,6 +19,11 @@ Hopefully this will save people some time. Add any suggestions to the [issue tra
 ## Usage
 
 Download and install into ~/.middleman (you'll have to create this directory if it's not already there). You can then use it with the `--template` flag on `middleman init`. 
+
+### Example
+
+1. Download/clone to: `~/.middleman/html4bphaml/`
+2. Then create your new Middleman project: `middleman init my_new_project --template=html4bphaml`
 
 For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
 
