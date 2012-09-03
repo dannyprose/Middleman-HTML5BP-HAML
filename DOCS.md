@@ -21,11 +21,11 @@ For the site at large, the title & description is handled through `/helpers/site
 
 For individual pages, just add some YAML data to the top of any given page (see our default index for an example):
 
-```
-    ---
-    title:
-    description:
-    ---
+```yaml
+---
+title:
+description:
+---
 ```
 
 ### Changing the Site Title and Description
