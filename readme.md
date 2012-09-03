@@ -1,8 +1,8 @@
 # Middleman 3.0.x Project Template: HTML5 Boilerplate HAML, Normalize, Susy, Sprockets Includes
 
-HTML5 Boilerplate HAML is a project template for [Middleman 3.0.x](http://www.middlemanapp.com), a Sinatra-based static site generator by [Thomas Reynolds](http://awardwinningfjords.com/). It contains the a HAML-formatted version of the [HTML5 Boilerplate 4.0](http://www.html5boilerplate.com), as well as related assets broken up into a Middleman/Rails directory structure and included with Sprockets.
+HTML5 Boilerplate HAML is the [HTML5 Boilerplate 4.0](http://html5boilerplate.com/) adapted as a HAML [Middleman 3.x](http://middlemanapp.com/) project template with [Susy 1.0](http://susy.oddbird.net/) responsive grids ready to go, content using [Markdown](http://daringfireball.net/projects/markdown/), [SCSS](http://sass-lang.com/) organized with [SMACSS](http://smacss.com/), Coffeescript, Sprockets and more.
 
-Using Bundler and RVM is **highly** recommended.
+Using [Bundler](http://gembundler.com/) and [RVM](https://rvm.io/) is **highly** recommended.
 
 Features:
 
@@ -36,7 +36,7 @@ This will soon be bundled with Middleman by default. Stay tuned.
 
 [Middleman HTML5 Boilerplate HAML documentation](https://github.com/dannyprose/Middleman-HTML5BP-HAML/tree/master/DOCS.md): A good overview of some of the small changes we made with this version of the HTML5 Boilerplate.
 
-[HTML5 Boilerplate documentation](https://github.com/dannyprose/Middleman-HTML5BP-HAML/tree/master/html5bp-docs): Documentation that is included with the HTML5 Boilerplate. ***Note that some things (e.g. paths) will differ between this version of the HTML5 Boilerplate and the original.***
+[HTML5 Boilerplate documentation](https://github.com/dannyprose/Middleman-HTML5BP-HAML/tree/master/html5bp-docs): Documentation that is included with the HTML5 Boilerplate. **Note that some things (e.g. paths) will differ between this version of the HTML5 Boilerplate and the original.**
 
 ## Older Middleman Versions
 
@@ -44,4 +44,4 @@ This will likely work with Middleman 2.x, but it's optimized for Middleman 3.x. 
 
 ## Contribute
 
-Have a better way of doing this? **Jump on in**. Hopefully this will save some other Middleman fans some time.
+Have a better way of doing this? **[Jump on in](https://github.com/dannyprose/Middleman-HTML5BP-HAML)**. If there are better defaults to include in a Middleman workflow, add them in. This is just what [I](http://www.dannyprose.com) use (and [continually update](https://github.com/dannyprose/Middleman-HTML5BP-HAML)) as my standard default for Middleman Sites.
