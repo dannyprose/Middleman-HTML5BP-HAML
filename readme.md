@@ -8,8 +8,9 @@ Features:
 
 * Uses the [HTML5 Boilerplate 4.0](http://www.html5boilerplate.com), converted to a Middleman/HAML workflow.
 * [Susy 1.0](http://susy.oddbird.net/) responsive grids ready to go.
-* [SMACSS](http://smacss.com/) stylesheet organization
+* [SMACSS](http://smacss.com/) stylesheet organization)
 * [Middleman Livereload](https://github.com/middleman/middleman-livereload): enabled for the generic 'middleman' command by default
+* Smart Site/Page handling for titles and descriptions (via the Middleman Docs source
 * [Middleman Favicon Maker](https://github.com/follmann/middleman-favicon-maker): creates favicons and touch icons on build from `favicon_base.png` in /source/
 * RVM-ready
 * Some good `.gitignore` defaults
@@ -22,7 +23,7 @@ Download and install into ~/.middleman (you'll have to create this directory if 
 
 ### Example
 
-1. Download/clone to: `~/.middleman/html4bphaml/`
+1. [Download](https://github.com/dannyprose/Middleman-HTML5BP-HAML/zipball/master)/clone to: `~/.middleman/html4bphaml/`
 2. Then create your new Middleman project: `middleman init my_new_project --template=html4bphaml`
 
 For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/).
@@ -31,12 +32,11 @@ For more help follow [Middleman's project template instructions](http://middlema
 
 This will soon be bundled with Middleman by default. Stay tuned.
 
-## Recommendations
+## Documentation
 
-* Update `.rvmrc` to the [gemset](https://rvm.io/gemsets/basics/) of your choosing (or remove it if you do not use [RVM](https://rvm.io/))
-* Double check `.gitignore` and make sure it is what you want.
-  * eg: `build/` is ignored by default.
-* If you don't use `middleman init` to load the template, make sure to [use and run Bundler](http://gembundler.com/).
+[Middleman HTML5 Boilerplate HAML documentation](https://github.com/dannyprose/Middleman-HTML5BP-HAML/tree/master/DOCS.md): A good overview of some of the small changes we made with this version of the HTML5 Boilerplate.
+
+[HTML5 Boilerplate documentation](https://github.com/dannyprose/Middleman-HTML5BP-HAML/tree/master/html5bp-docs): Documentation that is included with the HTML5 Boilerplate. ***Note that some things (e.g. paths) will differ between this version of the HTML5 Boilerplate and the original.***
 
 ## Older Middleman Versions
 

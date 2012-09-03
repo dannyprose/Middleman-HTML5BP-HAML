@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.5 (September 2, 2012)
+
+* Smart site and page titles/descriptions through /helpers/site_helpers.rb
+* Better documentation
+
 ## 3.0.4 (September 2, 2012)
 
 * [SMACSS](http://smacss.com/) stylesheet organization
@@ -16,4 +21,4 @@
 
 ## 3.0.1 and below
 
-See commit log
+See commit log 
