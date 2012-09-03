@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.4 (September 2, 2012)
+
+* [SMACSS](http://smacss.com/) stylesheet organization
+
 ## 3.0.3 (September 2, 2012)
 
 * Added .htaccess for Apache builds
