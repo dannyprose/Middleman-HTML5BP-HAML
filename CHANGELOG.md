@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.7 (September 11, 2012)
+
+* Update to Middleman 3.0.2
+
 ## 3.0.6 (September 2, 2012)
 
 * Content is parsed with Markdown (using Redcarpet) by default
