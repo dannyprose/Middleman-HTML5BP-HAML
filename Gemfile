@@ -1,7 +1,7 @@
 source :rubygems
 
 gem "middleman", "~>3.0.4"
-gem "middleman-favicon-maker", "~>3.0.0", :git => "git://github.com/follmann/middleman-favicon-maker.git"
-gem "middleman-livereload", "~>3.0.0", :git => "git://github.com/middleman/middleman-livereload.git"
+gem "middleman-favicon-maker"
+gem "middleman-livereload"
 gem "susy", "1.0"
 gem "redcarpet"
