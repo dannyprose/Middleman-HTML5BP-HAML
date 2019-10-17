@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (3.2.12)
-      i18n (~> 0.6)
+    activesupport (3.2.22.5)
+      i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
     chunky_png (1.2.8)
     coffee-script (2.2.0)
@@ -27,7 +27,7 @@ GEM
       tilt
     hike (1.2.3)
     http_parser.rb (0.5.3)
-    i18n (0.6.4)
+    i18n (0.6.11)
     kramdown (1.0.2)
     listen (1.2.2)
       rb-fsevent (>= 0.9.3)
@@ -70,7 +70,7 @@ GEM
       sprockets-sass (~> 1.0.0)
     mini_magick (3.6.0)
       subexec (~> 0.2.1)
-    multi_json (1.7.7)
+    multi_json (1.14.1)
     rack (1.5.2)
     rack-livereload (0.3.15)
       rack
