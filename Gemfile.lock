@@ -71,7 +71,7 @@ GEM
     mini_magick (3.6.0)
       subexec (~> 0.2.1)
     multi_json (1.7.7)
-    rack (1.5.2)
+    rack (1.6.11)
     rack-livereload (0.3.15)
       rack
     rack-test (0.6.2)
